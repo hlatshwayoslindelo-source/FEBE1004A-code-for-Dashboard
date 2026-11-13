@@ -317,7 +317,7 @@ section = st.sidebar.radio(
 year = st.sidebar.selectbox("Year", YEARS, index=0)
 
 st.sidebar.markdown("---")
-st.sidebar.caption("Air quality and rainfall refresh every 30 minutes.")
+st.sidebar.caption("Air quality and rainfall refresh every 24 hours.")
 
 
 # =========================
